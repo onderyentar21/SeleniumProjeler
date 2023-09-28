@@ -9,6 +9,7 @@ import java.util.Properties;
 public class FileExist_2 {
 
     public static void main(String[] args) {
+        System.out.println("proje baslığı eklendi.");
         // projenizde pom.xml olduğunu test esin
         //C:\testmuhendisi_dersler\SeleniumEmreSaglam\pom.xml
         //System.out.println(System.getProperty("user.dir"));
