@@ -1,0 +1,20 @@
+ /**
+         * Action classını kullanarak mouse ve keyboard ile yapabileceğimiz tum işlevleri gercekleştirebiliriz
+         * Actions Class bircok kullanışlı mouse ve klavye işlevine sahiptir.
+         * Mouse Actions
+         *
+         * doubleClick(): WebElemenete cift tıklama yapar
+         * clicAndHold(): WebElement üzerinde ckick yapili olarak bizden komut bekler
+         * dragAndDrog(): WebElementi bir noktadan diğerine sürekler ve bırkalkır
+         * moveToElement(): Mouse istediğimiz Wenelementin üzerinde tutar.
+         * contextClick(): Mouse ile istediğimiz WebElemente sag tiklama yapar.
+         => keyboard Actions
+
+         (klavye aksiyonları)
+         sendKeys(): öğeye bir dizin anahtar gönderir
+         keyDown(): klavyede tuşa basma işlemi gercekleştirlir
+         keyUp(): klavye tuşu serbest brama işlemi gerçekleştirilir
+         => bu metotlar ile işlem yapmak için keys anahtar kelimesi kullanılır.
+
+
+         */
